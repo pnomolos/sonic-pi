@@ -52,7 +52,6 @@ domains is the objective.
 * Info & Latest Releases: http://sonic-pi.net
 * Source: https://github.com/samaaron/sonic-pi
 * Computing Education Resources for Schools: http://www.raspberrypi.org/learning/sonic-pi-lessons/
-* Music Education Toolkit for Schools: http://sonicpiliveandcoding.com
 
 ## Acknowledgements
 
